@@ -7,7 +7,6 @@ Here’s a quick look at what I’ve been working on:
 
 ## 🌟 Featured Project: TensorAtelier  
 [**TensorAtelier**](https://github.com/maticos-dev/tensor-atelier) is my project focused on experimenting with machine learning pipelines and tools.  
-It highlights my work with large language models and transcriptomics — including experience with META’s ESM model via Hugging Face.  
 
 <p align="center">
   <a href="https://github.com/maticos-dev/tensor-atelier">
@@ -18,9 +17,11 @@ It highlights my work with large language models and transcriptomics — includi
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python, C, C++  
-- **ML/AI:** PyTorch, Hugging Face Transformers  
-- **Other interests:** LLM safety, inference optimization, agent-based systems  
+- **Languages:** Python, C
+- **ML/AI:**
+    * Architectures: Autoencoders, CNNs, LLMs, Transformers, RNNs
+    * Techniques Dimension Reduction (UMAP, t-SNE, PCA), Optimizer & Hyperparameter tuning
+    * Libraries: PyTorch, Tensorflow, Numpy, Pandas
 
 ---
 
