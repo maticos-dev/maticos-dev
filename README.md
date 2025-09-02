@@ -26,6 +26,4 @@ It highlights my work with large language models and transcriptomics — includi
 
 ## 📫 Connect with me  
 - GitHub: [maticos-dev](https://github.com/maticos-dev)  
-- LinkedIn: _(optional, if you want)_  
-
 ---
