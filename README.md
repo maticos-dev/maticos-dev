@@ -25,6 +25,4 @@ Here’s a quick look at what I’ve been working on:
 
 ---
 
-## 📫 Connect with me  
-- GitHub: [maticos-dev](https://github.com/maticos-dev)  
----
+## 📫 Check out my [resume](https://drive.google.com/file/d/1IK6YuRMQDikRlyM7mQec5RoQTOpf4vXd/view?usp=sharing)
