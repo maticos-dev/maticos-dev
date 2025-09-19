@@ -10,7 +10,7 @@ Here’s a quick look at what I’ve been working on:
 
 <p align="center">
   <a href="https://github.com/maticos-dev/tensor-atelier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maticos-dev&repo=tensor-atelier&theme=radical" alt="TensorAtelier repo card" />
+    <img src="readme-stats-coral-alpha.vercel.app/api/pin/?username=maticos-dev&repo=tensor-atelier&theme=radical" alt="TensorAtelier repo card" />
   </a>
 </p>
 
